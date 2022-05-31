@@ -9,19 +9,22 @@
 </a>
 
 <br/>
+<br/>
 
 <a href="https://www.graveyardshift.page">
   <img align="center" src="./assets/graveyard_shift_banner.svg" />
 </a> 
 
 <br/>
+<br/>
 
-<details open>
+<details open style="max-width: 500px;">
 <summary style="list-style: none; cursor:pointer;">
   <img align="center" src="./assets/dungeon_deception_banner.svg" style="user-select: none;"/>
 </summary>
-<div style="display: inline-block; margin-top: 0.5rem;">
-  <a href="https://testflight.apple.com/join/nqhmC7Kf" style="display: inline-block; margin-right: 0.5rem; margin-bottom: 0.5rem;">
+<br/>
+<div>
+  <a href="https://testflight.apple.com/join/nqhmC7Kf"">
     <img align="center" src="./assets/download_for_ios.svg" />
   </a> 
   <a href="https://drive.google.com/file/d/1MND-OEYt1AMIv7W9ScBkZED2DBCfuevx/view?usp=drivesdk">
