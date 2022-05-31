@@ -17,12 +17,14 @@
 ---
 ### <img align="center" style="margin-bottom:3px" width="24" src="./assets/pin.svg" /> PROJECTS WORTH CHECKING OUT
 
-[![Path Finding Visualization](https://github-readme-stats.vercel.app/api/pin/?username=marcoseiza&repo=Path-Finding-Visualization&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B35)](https://github.com/marcoseiza/Path-Finding-Visualization)
+[![Path Finding Visualization](https://github-readme-stats.vercel.app/api/pin/?username=marcoseiza&repo=Path-Finding-Visualization&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B35)](https://github.com/marcoseiza/Path-Finding-Visualization)&nbsp;
+<img width="245" src="https://path.meizayaga.com/images/algorithm.gif" />
 
 <br/>
 
 <!-- Made in figma https://www.figma.com/file/nzoWO3YaSIyDHFrVbhJ1cd/Github-Readme -->
-[![Path Finding Visualization](./assets/graveyard_shift_banner.svg)](https://www.graveyardshift.page)
+[![Path Finding Visualization](./assets/graveyard_shift_banner.svg)](https://www.graveyardshift.page)&nbsp;
+<img width="260" src="./assets/graveyard_shift_preview.gif" />
 
 <br/>
 
