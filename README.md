@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi i'm Marcos Eizayaga :)
 
-<!--
-**marcoseiza/marcoseiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Pinned Repositories -->
 
-Here are some ideas to get you started:
+### Projects Worth Checking Out
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/marcoseiza/Path-Finding-Visualization">
+  <img align="center" style="margin:1rem 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoseiza&repo=Path-Finding-Visualization&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://www.graveyardshift.page">
+  <img align="center" style="width:400px; height:auto;" src="https://graveyardshift.page/assets/banner.png" />
+</a>
