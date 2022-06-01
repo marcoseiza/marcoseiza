@@ -23,7 +23,7 @@
 <br/>
 
 <!-- Made in figma https://www.figma.com/file/nzoWO3YaSIyDHFrVbhJ1cd/Github-Readme -->
-[![Path Finding Visualization](./assets/graveyard_shift_banner.svg)](https://www.graveyardshift.page)&nbsp;
+[<img width="400" src="./assets/graveyard_shift_banner.png" />](https://www.graveyardshift.page)&nbsp;
 <img width="260" src="./assets/graveyard_shift_preview.gif" />
 
 <br/>
@@ -31,7 +31,7 @@
 <details style="max-width: 500px;">
 <summary style="list-style: none; cursor:pointer;">
   <!-- Made in figma https://www.figma.com/file/nzoWO3YaSIyDHFrVbhJ1cd/Github-Readme -->
-  <img align="center" src="./assets/dungeon_deception_banner.svg" style="user-select: none;"/>
+  <img align="center" width="400" src="./assets/dungeon_deception_banner.png" style="user-select: none;"/>
 </summary>
 <br/>
 <div>
