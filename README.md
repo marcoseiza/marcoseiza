@@ -28,12 +28,8 @@
 
 <br/>
 
-<details style="max-width: 500px;">
-<summary style="list-style: none; cursor:pointer;">
-  <!-- Made in figma https://www.figma.com/file/nzoWO3YaSIyDHFrVbhJ1cd/Github-Readme -->
-  <img align="center" width="400" src="./assets/dungeon_deception_banner.png" style="user-select: none;"/>
-</summary>
-<br/>
+<!-- Made in figma https://www.figma.com/file/nzoWO3YaSIyDHFrVbhJ1cd/Github-Readme -->
+<img align="center" width="400" src="./assets/dungeon_deception_banner.png" style="user-select: none;"/>
 <div>
   <a href="https://testflight.apple.com/join/nqhmC7Kf" target="_blank" rel="noopener noreferrer">
     <!-- Made in figma https://www.figma.com/file/nzoWO3YaSIyDHFrVbhJ1cd/Github-Readme -->
@@ -45,7 +41,6 @@
     <img align="center" src="./assets/download_for_android.svg" target="_blank" rel="noopener noreferrer"/>
   </a> 
 </div>
-</details>
 
 ---
 ### <img align="center" style="margin-bottom:3px" width="24" src="./assets/tools.svg" /> LANGUAGES + TOOLS
